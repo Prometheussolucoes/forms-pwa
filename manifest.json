@@ -4,7 +4,7 @@
   "display": "fullscreen",
   "name": "Formulário de sugestão",
   "short_name": "Forms",
-  "start_url": "/",
+  "start_url": "./index.html",
   "theme_color": "#ffffff",
   "icons": [
     {
